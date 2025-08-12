@@ -1,8 +1,8 @@
 const config = {
-	siteTitle: 'Tablog',
-	siteTagline: 'Minimalistic Blog Theme for SvelteKit',
-	archiveTitle: 'Archive',
-	dateFormat: 'MMM dd, yyyy',
+	siteTitle: 'wniak.com',
+	siteTagline: 'Personal website of Wojciech Woźniak',
+	archiveTitle: 'Posts',
+	dateFormat: 'dd MMM, yyyy',
 };
 
 export default config;
